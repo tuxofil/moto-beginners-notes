@@ -1,0 +1,11 @@
+tmp
+*~
+*.pdf
+*.backup
+*.out
+*.aux
+*.log
+.fuse_hidden*
+*.toc
+moto-beginners-notes/
+*.dvi
