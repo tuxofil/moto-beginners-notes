@@ -9,3 +9,4 @@ tmp
 *.toc
 moto-beginners-notes/
 *.dvi
+*.sw[op]
